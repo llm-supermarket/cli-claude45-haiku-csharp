@@ -1,4 +1,4 @@
-# cli-claude45-haiku-csharp
+# cli-claude45-haiku-high-csharp
 
 A cross-platform CLI tool for encrypting and decrypting files using rclone-compatible encryption. Built with C# and .NET 10.
 
